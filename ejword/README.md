@@ -1,6 +1,6 @@
 ## 英和辞書アプリ
 ### 構成
-||||
+|||||
 |:---:|:---:|:---:|:---:|
 |プログラム||Java Servlet, JavaServer Pages|SQL|
 |ミドルウェア|Nginx|Tomcat|MariaDB|

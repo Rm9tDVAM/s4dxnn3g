@@ -1,8 +1,8 @@
 ## 英和辞書アプリ
 ### 構成
 ||||
-|:---:|:---:|:---:|
-|HTML, CSS|Java|SQL|
-|Nginx|Tomcat|MariaDB|
-||Raspbian Buster Lite||
-||Raspberry Pi 4 Model B 4GB||
+|:---:|:---:|:---:|:---:|
+|プログラム||Java Servlet, JavaServer Pages|SQL|
+|ミドルウェア|Nginx|Tomcat|MariaDB|
+|OS||Raspbian Buster Lite||
+|ハードウェア||Raspberry Pi 4 Model B 4GB||

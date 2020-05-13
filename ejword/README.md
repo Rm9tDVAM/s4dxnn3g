@@ -1,5 +1,6 @@
 ## 英和辞書アプリ
 ### 構成
+||||
 |---|---|---|
 |HTML, CSS|Java|SQL|
 |Nginx|Tomcat|MariaDB|

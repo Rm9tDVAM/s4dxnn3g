@@ -41,7 +41,6 @@ public class WordDAO {
 			ps=db.prepareStatement("SELECT * FROM words WHERE title LIKE ?");
 			ps.setString(1, searchWord);
 			rs=ps.executeQuery();
-			//System.out.println(ps);
 			while(rs.next()) {
 				String title=rs.getString("title");
 				String body=rs.getString("body");

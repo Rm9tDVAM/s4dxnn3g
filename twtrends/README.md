@@ -8,3 +8,5 @@
 |ハードウェア||Raspberry Pi 4 Model B 4GB||
 ### Link
 [Twitter Developer API reference index.](https://developer.twitter.com/en/docs/api-reference-index)
+cu3W8nOR/3yGpN6wd
+iKIh98kJ

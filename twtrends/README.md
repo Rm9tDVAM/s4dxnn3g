@@ -7,4 +7,4 @@
 |OS||Raspbian Buster Lite||
 |ハードウェア||Raspberry Pi 4 Model B 4GB||
 ### Link
-[aaa.](https://developer.twitter.com/en/docs/api-reference-index)
+[Twitter Developer API reference index.](https://developer.twitter.com/en/docs/api-reference-index)
